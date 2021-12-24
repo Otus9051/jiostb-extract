@@ -1,5 +1,6 @@
 # JioSTB Firmware Extracter
 ### An automatic firmware extractor for Jio STBs. May work on other devices too. For Windows only, will be ported to linux soon.
+### Tested on Windows 10 and 11. 
 
 ## Using The Script
 1. Download this repo by clicking on code and click on Download Zip
